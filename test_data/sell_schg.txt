@@ -1,0 +1,99 @@
+<!doctype html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head><title></title><!--[if !mso]><!--><meta http-equiv="X-UA-Compatible" content="IE=edge"><!--<![endif]--><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style type="text/css">#outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bicubic;
+    }
+
+    p {
+      display: block;
+      margin: 13px 0;
+    }</style><!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]--><!--[if lte mso 11]>
+    <style type="text/css">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]--><style type="text/css">@media only screen and (min-width:480px) {
+      .mj-column-per-100 {
+        width: 100% !important;
+        max-width: 100%;
+      }
+    }</style><style media="screen and (min-width:480px)">.moz-text-html .mj-column-per-100 {
+      width: 100% !important;
+      max-width: 100%;
+    }</style><style type="text/css">@media only screen and (max-width:480px) {
+      table.mj-full-width-mobile {
+        width: 100% !important;
+      }
+
+      td.mj-full-width-mobile {
+        width: auto !important;
+      }
+    }</style><style type="text/css">.buttonSecondary a {
+      background-color: #ffffff;
+      border: 1px solid #000000;
+      color: #000000;
+    }
+
+    .bodyText {}
+
+    .bodyText div {}
+
+    @media only screen and (min-width: 480px) {
+
+      .image-lead-override,
+      .image-lead-override td,
+      .image-lead-override img {
+        width: 471px !important;
+        height: 282px !important;
+      }
+    }
+
+    @media only screen and (min-width:480px) {
+      .mj-section-rh>table>tbody>tr>td {
+        padding-left: 90px !important;
+        padding-right: 90px !important;
+      }
+
+      .header-image-full-bleed>table>tbody>tr>td {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+      }
+    }
+
+    a[x-apple-data-detectors] {
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }</style><meta name="color-scheme" content="light"><meta name="supported-color-schemes" content="light"></head><body style="word-spacing:normal;background-color:#FFFFFF;" class="body"><div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">Your order to sell 250 shares of SCHG was executed at an average price of $27.25 on February 28, 2025 at 4:55 PM ET.</div><div class="body" style="padding: 6px; background-color: #FFFFFF;"><!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="mj-section-rh-outlook" role="presentation" style="width:652px;" width="652" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><v:rect style="width:652px;" xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false"><v:fill origin="0.5, 0" position="0.5, 0" src="https://cdn.robinhood.com/post_office_email_assets/headerBg.png" color="#ffffff" type="tile" /><v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0"><![endif]--><div class="mj-section-rh" style="background:#ffffff url('https://cdn.robinhood.com/post_office_email_assets/headerBg.png') center top / auto repeat;background-position:center top;background-repeat:repeat;background-size:auto;margin:0px auto;max-width:652px;"><div style="line-height:0;font-size:0;"><table align="center" background="https://cdn.robinhood.com/post_office_email_assets/headerBg.png" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff url('https://cdn.robinhood.com/post_office_email_assets/headerBg.png') center top / auto repeat;background-position:center top;background-repeat:repeat;background-size:auto;width:100%;"><tbody><tr><td style="border:1px solid #B4BDC2;border-bottom:1;border-top:1;direction:ltr;font-size:0px;padding:20px 0;padding-bottom:18px;padding-left:32px;padding-right:32px;padding-top:21px;text-align:center;"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:586px;" ><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"><table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%"><tbody><tr><td style="vertical-align:top;padding:0;"><table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%"><tbody><tr><td align="center" style="font-size:0px;padding:0px;word-break:break-word;"><table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;"><tbody><tr><td style="width:115px;"><img alt="Robinhood logo" height="22" src="https://images.ctfassets.net/7as2sgxpn9mx/4S4XmqExyo1hpv0fFO9MZJ/1140b8482122bfde576f87f5cbe8e9b5/RH_lockup_black.png" style="border:0;display:block;outline:none;text-decoration:none;height:22px;width:100%;font-size:15px;" width="115"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div></div><!--[if mso | IE]></v:textbox></v:rect></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="bodyText-outlook mj-section-rh-outlook" role="presentation" style="width:652px;" width="652" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class="bodyText mj-section-rh" style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:652px;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"><tbody><tr><td style="border:1px solid #B4BDC2;border-bottom:none;border-top:none;direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0;padding-left:32px;padding-right:32px;padding-top:0;text-align:center;"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:586px;" ><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"><table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"><tbody><tr><td align="left" style="font-size:0px;padding:12px 0px;padding-top:24px;padding-bottom:12px;word-break:break-word;"><div style="font-family:Helvetica, Arial;font-size:24px;line-height:29px;text-align:left;color:#040D14;">Your order has been executed</div></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="bodyText-outlook mj-section-rh-outlook" role="presentation" style="width:652px;" width="652" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class="bodyText mj-section-rh" style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:652px;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"><tbody><tr><td style="border:1px solid #B4BDC2;border-bottom:none;border-top:none;direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0;padding-left:32px;padding-right:32px;padding-top:0;text-align:center;"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:586px;" ><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"><table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"><tbody><tr><td align="left" style="font-size:0px;padding:12px 0px;word-break:break-word;"><div style="font-family:Helvetica, Arial;font-size:15px;line-height:25px;text-align:left;color:#040D14;">Hi Alan,</div></td></tr><tr><td align="left" style="font-size:0px;padding:12px 0px;word-break:break-word;"><div style="font-family:Helvetica, Arial;font-size:15px;line-height:25px;text-align:left;color:#040D14;">Your order to sell 250 shares of SCHG through your individual account was executed at an average price of $27.25 on February 28, 2025 at 4:55 PM ET. Funds available from this trade will be reflected in your withdrawable cash on Mar. 3, 2025.</div></td></tr><tr><td align="left" style="font-size:0px;padding:12px 0px;word-break:break-word;"><div style="font-family:Helvetica, Arial;font-size:15px;line-height:25px;text-align:left;color:#040D14;">Your trade confirmation will be available in your order history on Robinhood in one trading day.</div></td></tr><tr><td align="left" style="font-size:0px;padding:12px 0px;word-break:break-word;"><div style="font-family:Helvetica, Arial;font-size:15px;line-height:25px;text-align:left;color:#040D14;">If you have any questions, please visit our <a href="https://robinhood.com/support" style="color: #000000; text-decoration: underline; font-weight: bold;">Help Center</a>.</div></td></tr><tr><td align="left" style="font-size:0px;padding:12px 0px;word-break:break-word;"><div style="font-family:Helvetica, Arial;font-size:15px;line-height:25px;text-align:left;color:#6F787E;">– The Robinhood team</div></td></tr><tr><td align="left" style="font-size:0px;padding:12px 0px;padding-top:0;padding-bottom:22px;word-break:break-word;"><div style="font-family:Helvetica, Arial;font-size:15px;line-height:25px;text-align:left;color:#040D14;"></div></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="mj-section-rh-outlook" role="presentation" style="width:652px;" width="652" bgcolor="#F6F6F6" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class="mj-section-rh" style="background:#F6F6F6;background-color:#F6F6F6;margin:0px auto;max-width:652px;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#F6F6F6;background-color:#F6F6F6;width:100%;"><tbody><tr><td style="border:1px solid #B4BDC2;border-bottom:none;border-top:1;direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0;padding-left:32px;padding-right:32px;padding-top:30px;text-align:center;"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="footer-column-outlook" style="vertical-align:top;width:586px;" ><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix footer-column" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"><table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"><tbody><tr><td align="left" style="font-size:0px;padding:12px 0px;word-break:break-word;"><div style="font-family:Helvetica, Arial;font-size:15px;line-height:25px;text-align:left;color:#040D14;"></div></td></tr><tr><td align="left" class="social-link-table" style="font-size:0px;padding:0 0 8px;word-break:break-word;"><table cellpadding="0" cellspacing="0" width="100%" border="0" style="margin-left: -5px; color: #040D14; font-family: Helvetica, Arial; font-size: 15px; line-height: 25px; table-layout: auto; width: 100%; border: none;"><tr><td width="32"><a href="https://www.facebook.com/robinhoodapp" style="color: #040D14; text-decoration: none; font-weight: normal;"><img src="https://cdn.robinhood.com/post_office_email_assets/Facebook-2%402x.png" srcset="https://cdn.robinhood.com/post_office_email_assets/Facebook-2.png, https://cdn.robinhood.com/post_office_email_assets/Facebook-2%402x.png 2x" width="32" height="32" align="left" padding="0"></a></td><td width="12"></td><td width="32"><a href="https://twitter.com/RobinhoodApp" style="color: #040D14; text-decoration: none; font-weight: normal;"><img src="https://cdn.robinhood.com/post_office_email_assets/Twitter-2%402x.png" srcset="https://cdn.robinhood.com/post_office_email_assets/Twitter-2.png, https://cdn.robinhood.com/post_office_email_assets/Twitter-2%402x.png 2x" width="32" height="32" align="left" padding="0"></a></td><td width="12"></td><td width="32"><a href="https://www.instagram.com/robinhoodapp" style="color: #040D14; text-decoration: none; font-weight: normal;"><img src="https://cdn.robinhood.com/post_office_email_assets/Instagram-2%402x.png" srcset="https://cdn.robinhood.com/post_office_email_assets/Instagram-2.png, https://cdn.robinhood.com/post_office_email_assets/Instagram-2%402x.png 2x" width="32" height="32" align="left" padding="0"></a></td><td colspan="100"><!-- NOTE(stuart.olivera): Using colspan=100 because Apple Mail resizes all table cells to be equal otherwise --><!-- NOTE(stuart.olivera): Empty to prevent auto-layout within open horizontal space --></td></tr></table></td></tr><tr><td align="left" style="font-size:0px;padding:12px 0px;padding-top:0;padding-bottom:0;word-break:break-word;"><div style="font-family:Helvetica, Arial;font-size:15px;line-height:25px;text-align:left;color:#040D14;"><a href="https://robinhood.com" style="color: #040D14; text-decoration: none; font-weight: normal;">Home</a><br><a href="https://robinhood.com/support/" style="color: #040D14; text-decoration: none; font-weight: normal;">Help Center</a><br><a href="https://robinhood.com/contact" style="color: #040D14; text-decoration: none; font-weight: normal;">Contact Us</a><br><a href="https://robinhood.com/l/privacy" style="color: #040D14; text-decoration: none; font-weight: normal;">Privacy Policy</a></div></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="mj-section-rh-outlook" role="presentation" style="width:652px;" width="652" bgcolor="#F6F6F6" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div class="mj-section-rh" style="background:#F6F6F6;background-color:#F6F6F6;margin:0px auto;max-width:652px;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#F6F6F6;background-color:#F6F6F6;width:100%;"><tbody><tr><td style="border:1px solid #B4BDC2;border-bottom:1;border-top:none;direction:ltr;font-size:0px;padding:20px 0;padding-bottom:34px;padding-left:32px;padding-right:32px;padding-top:0;text-align:center;"><!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="footer-column-outlook footer-disclosure-outlook footer-disclosure-muted-outlook" style="vertical-align:top;width:586px;" ><![endif]--><div class="mj-column-per-100 mj-outlook-group-fix footer-column footer-disclosure footer-disclosure-muted" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"><table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"><tbody><tr><td align="left" style="font-size: 0px; padding: 12px 0px; word-break: break-word; padding-bottom: 0px;"><div style="font-family: Helvetica, Arial; text-align: left; font-size: 12px; line-height: 22px; color: #6F787E;">All investments involve risk and loss of principal is possible.</div></td></tr><tr><td align="left" style="font-size: 0px; padding: 12px 0px; word-break: break-word; padding-bottom: 0px;"><div style="font-family: Helvetica, Arial; text-align: left; font-size: 12px; line-height: 22px; color: #6F787E;">Robinhood Financial LLC (member <a href="https://www.sipc.org/" style="color: #040D14; text-decoration: none; font-weight: normal;">SIPC</a>), is a registered broker dealer. Robinhood Securities, LLC (member <a href="https://www.sipc.org/" style="color: #040D14; text-decoration: none; font-weight: normal;">SIPC</a>), is a registered broker dealer and provides brokerage clearing services. Cryptocurrency services are offered through an account with Robinhood Crypto, LLC ("RHC") (NMLS ID 1702840). Robinhood Crypto is licensed to engage in virtual currency business activity by the New York State Department of Financial Services. Cryptocurrency held through Robinhood Crypto is not FDIC insured or SIPC protected. Robinhood Money, LLC (“RHY”) (NMLS ID 1990968) is a licensed money transmitter. Robinhood Credit, Inc. ("RCT") is a financial technology company. Robinhood Gold is offered through Robinhood Gold, LLC ("RHG") and is a subscription offering premium services available for a fee. Robinhood Asset Management, LLC ("RAM") is an SEC-registered investment advisor. RHF, RHS, RHC, RHY RCT, RHG, and RAM are not banks. All are subsidiaries of Robinhood Markets, Inc. (‘Robinhood’).</div></td></tr><tr><td align="left" style="font-size: 0px; padding: 12px 0px; word-break: break-word; padding-bottom: 0px;"><div style="font-family: Helvetica, Arial; text-align: left; font-size: 12px; line-height: 22px; color: #6F787E;">© 2025 Robinhood Markets Inc. <br><br><a href="https://cdn.robinhood.com/assets/robinhood/legal/Robinhood%20Terms%20and%20Conditions.pdf" style="color: #040D14; text-decoration: none; font-weight: normal;">Robinhood Terms and Conditions</a> <a href="https://robinhood.com/us/en/about/legal/" style="color: #040D14; text-decoration: none; font-weight: normal;">Disclosure Library</a> <a href="https://robinhood.com/us/en/support/" style="color: #040D14; text-decoration: none; font-weight: normal;">FAQ</a></div></td></tr><tr><td align="left" style="font-size: 0px; padding: 12px 0px; word-break: break-word; padding-bottom: 0px;"><div style="font-family: Helvetica, Arial; text-align: left; font-size: 12px; line-height: 22px; color: #6F787E;">Robinhood, 85 Willow Road, Menlo Park, CA 94025. All rights reserved. 3​169981</div></td></tr><tr><td align="left" style="font-size: 0px; padding: 12px 0px; word-break: break-word; padding-bottom: 0px;"><div style="font-family: Helvetica, Arial; text-align: left; font-size: 12px; line-height: 22px; color: #6F787E;">This email is being sent in compliance with regulatory requirements.</div></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]></td></tr></table><![endif]--></div></body></html>
