@@ -8,12 +8,17 @@ from llm_tools.get_stock_or_index_price import (
     GetStockOrIndexPrice,
     get_stock_or_index_price,
 )
+from llm_tools.send_alpha_update_email import (
+    SendAlphaUpdateEmail,
+    send_alpha_update_email,
+)
 
 TOOLS = [
     pydantic_function_tool(SaveTransaction),
     pydantic_function_tool(ExtractTransaction),
     pydantic_function_tool(GetStockOrIndexPrice),
     pydantic_function_tool(GetPortfolioAlpha),
+    pydantic_function_tool(SendAlphaUpdateEmail),
 ]
 
 FUNCTIONS = {
@@ -21,6 +26,7 @@ FUNCTIONS = {
     ExtractTransaction: extract_transaction,
     GetStockOrIndexPrice: get_stock_or_index_price,
     GetPortfolioAlpha: get_portfolio_alpha,
+    SendAlphaUpdateEmail: send_alpha_update_email,
 }
 
 
