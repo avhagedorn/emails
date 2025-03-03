@@ -3,7 +3,7 @@ import imaplib
 import email
 import asyncio
 
-from email_processor import process_email
+# from email_processor import process_email
 
 # Email credentials
 EMAIL = os.environ.get("EMAIL")
@@ -24,7 +24,8 @@ async def check_email():
                 for part in msg.walk():
                     if part.get_content_type() == "text/html":
                         content = part.get_payload(decode=True).decode()
-                        await process_email(content)
+                        print(content)
+                        # await process_email(content)
                         break
             else:
                 print("No HTML body found.")
